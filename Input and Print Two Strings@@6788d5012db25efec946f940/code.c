@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char a;
-    char b;
+    char a[];
     scanf("%c", &a);
-    scanf("%c", &b);
-    printf("You entered: ", a"and"b);
+    printf("You entered: ", );
     return 0;
 }
