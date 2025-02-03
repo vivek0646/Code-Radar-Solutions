@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("%s", welcome());
+    putchar(getchar())
     return 0;
 }
