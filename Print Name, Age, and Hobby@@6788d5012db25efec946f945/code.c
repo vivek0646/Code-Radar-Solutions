@@ -10,6 +10,6 @@ int main() {
 
     printf("Name: %s\n",name);
     printf("Age: %d\n",age);
-    printf("Hobby: %S\n",Hobby);
+    printf("Hobby: %s\n",Hobby);
     return 0;
 }
