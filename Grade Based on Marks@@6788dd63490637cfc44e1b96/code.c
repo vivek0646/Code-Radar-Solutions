@@ -1,8 +1,9 @@
 #include <stdio.h>
+int main() {
+    
 int a;
 scanf("%d", &a);
 
-int main() {
     if(a>=90){
         printf("A");
     }
