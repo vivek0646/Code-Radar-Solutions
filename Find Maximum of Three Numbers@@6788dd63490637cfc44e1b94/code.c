@@ -6,11 +6,11 @@ int main() {
     if(a>b>c){
         printf("%d", a);
     }
-    else if(a>b>c){
-        printf("%d", a);
+    else if(b>a>c){
+        printf("%d", b);
     }
-    else if(a>b>c){
-        printf("%d", a);
+    else if(c>b>a){
+        printf("%d", c);
     }
     return 0;
 }
