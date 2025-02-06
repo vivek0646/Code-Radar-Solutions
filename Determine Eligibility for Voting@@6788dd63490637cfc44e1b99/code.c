@@ -4,10 +4,10 @@ int main() {
     int a;
     scanf("%d", &a);
     if(a>=18){
-        prinf("Eligible");
+        printf("Eligible");
     }
     else{
-        prinf("Not Eligible");
+        printf("Not Eligible");
     }
     return 0;
 }
