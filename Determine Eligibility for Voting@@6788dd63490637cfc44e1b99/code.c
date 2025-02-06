@@ -6,7 +6,7 @@ int main() {
     if(a>=18){
         prinf("Eligible");
     }
-    else(a<18){
+    else{
         prinf("Not Eligible");
     }
     return 0;
