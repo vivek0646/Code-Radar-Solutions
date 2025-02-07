@@ -3,7 +3,7 @@
 int main() {
     int a;
     scanf("%d", &a);
-    for(a; a*a <=N; i++){
+    for( a*a <=N; i++){
         if(N%i ==0);
     }
     return 0;
