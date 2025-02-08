@@ -6,7 +6,7 @@ int main() {
     if(c== 'A'){
         printf("Excellent");
     }
-    if(c== 'B'){
+    else if(c== 'B'){
         printf("Good");
     }
     else if(c== 'C'){
