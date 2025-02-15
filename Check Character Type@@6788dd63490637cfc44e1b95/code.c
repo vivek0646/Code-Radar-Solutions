@@ -3,7 +3,7 @@
 int main() {
     char c;
     scanf("%c", &c);
-    if(c =='a'|| c=='e'||c== 'i'||c== 'o'||c== 'u'){
+    if(c =='a'|| c=='e'||c== 'i'||c== 'o'||c== 'u'|| c=='O'){
         printf("Vowel");
     }
     else if((c>='a') && (c<='z')){
