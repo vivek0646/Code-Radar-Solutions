@@ -2,7 +2,6 @@
 
 int main() {
     int n;
-    printf("Enter number of rows for the top half: ");
     scanf("%d", &n);
 
     // Upper pyramid
